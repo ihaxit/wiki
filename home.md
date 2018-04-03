@@ -1,4 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: ihax.it wiki -->
+<!-- SUBTITLE: A test wiki -->
 
-# Header
+# H1 header
+Some copy here
+
