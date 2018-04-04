@@ -1,5 +1,6 @@
 <!-- TITLE: ihax.it wiki -->
 <!-- SUBTITLE: A test wiki -->
+![Ihax It Lite](/uploads/img/ihax-it-lite.png "Ihax It Lite"){.pagelogo}
 # This is an H1 header
 **Bold copy here**
 *Italic copy*
