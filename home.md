@@ -2,6 +2,9 @@
 <!-- SUBTITLE: A test wiki -->
 ![Ihax It Lite](/uploads/img/ihax-it-lite.png "Ihax It Lite"){.pagelogo}
 # This is an H1 header
+* [Category 1](category-1)
+* [Category 2](category-2)
+
 **Bold copy here**
 *Italic copy*
 * UL item
