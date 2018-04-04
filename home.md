@@ -16,3 +16,17 @@ Got images working
 1. OL item
 2. OL item
 3. OL item
+
+
+
+-----
+
+
+
+
+This is some `inline code`
+
+
+```text
+This is a code block
+```
